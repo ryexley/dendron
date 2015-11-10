@@ -1,0 +1,23 @@
+{
+  "name": "dendron",
+  "version": "0.0.1",
+  "description": "JavaScript i18n solution",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/ryexley/dendron.git"
+  },
+  "keywords": [
+    "JavaScript",
+    "i18n"
+  ],
+  "author": "Bob Yexley",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ryexley/dendron/issues"
+  },
+  "homepage": "https://github.com/ryexley/dendron#readme"
+}
